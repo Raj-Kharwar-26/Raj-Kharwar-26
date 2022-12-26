@@ -4,7 +4,7 @@
 
 ## 🚀 *About me*
 <p align="center">
-<h3 align="center">I'm a frontend web developer, a competitive programmer & an open source enthusiast.</h3>
+<h3 align="center">I'm a competitive programmer & an open source enthusiast and learning frontend.</h3>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -15,12 +15,6 @@
 ## 🚀 *Trophies*
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-kharwar-26" alt="raj-kharwar-26&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone.**
-
-- 🌱 I’m currently learning **Web development and it's frameworks.**
-
-- 👯 I’m looking to collaborate on **Frontend Development.**
-
 - 👨‍💻 All of my projects are available at [github](github)
 
 - 💬 Ask me about anything about **Competetive programing and Web development**
@@ -30,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raj kharwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj kharwar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/newbie_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="newbie_26" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/buster_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buster_26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajkharwar976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajkharwar976" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/newbie_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="newbie_26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/newbie_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="newbie_26" height="30" width="40" /></a>
